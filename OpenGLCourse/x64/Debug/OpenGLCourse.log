@@ -1,0 +1,6 @@
+﻿  OpenGLCourse.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+OpenGLCourse.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+OpenGLCourse.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function main
+C:\Users\neali\OneDrive\Documents\Visual Studio 2022\External Libs\GL\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\neali\Desktop\OpenGLCourse\x64\Debug\OpenGLCourse.exe : fatal error LNK1120: 2 unresolved externals

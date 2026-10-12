@@ -1,0 +1,4 @@
+﻿  OpenGLCourse.cpp
+OpenGLCourse.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+OpenGLCourse.obj : error LNK2001: unresolved external symbol __imp_glewInit
+C:\Users\neali\Desktop\OpenGLCourse\x64\Release\OpenGLCourse.exe : fatal error LNK1120: 2 unresolved externals
